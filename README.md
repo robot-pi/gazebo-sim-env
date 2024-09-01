@@ -9,6 +9,7 @@
 # Useful Tutorial
 
 1. [Getting Ready to build a ROS robot](https://articulatedrobotics.xyz/category/getting-ready-to-build-a-ros-robot)
+1. [MoveIt tutorial](https://moveit.picknik.ai/humble/doc/tutorials/tutorials.html)
 1. [moveit\_task\_constructor](https://github.com/moveit/moveit_task_constructor)
 
 # Tips
