@@ -9,3 +9,15 @@
 # Useful Tutorial
 
 1. [Getting Ready to build a ROS robot](https://articulatedrobotics.xyz/category/getting-ready-to-build-a-ros-robot)
+
+# Tips
+
+Q: How to solve ros dependency
+
+```
+sudo rosdep init
+rosdep update
+
+cd your_workspace_path
+rosdep install -r --from-paths . --ignore-src --rosdistro $ROS_DISTRO -y
+```
